@@ -7,3 +7,5 @@ Oracle Listener: 1521
 MS SQL: 1433
 Redis: 6379
 Memcached: 11211
+DB2	50000
+SQL Service	156
