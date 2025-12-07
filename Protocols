@@ -1,0 +1,13 @@
+Well-Known Protocols
+FTP: 20, 21
+SSH: 22
+Telnet: 23
+SMTP: 25
+DNS: 53
+LDAP: 389
+LDAP (SSL): 636
+IMAP: 143
+IMAP (SSL): 993
+POP3: 110
+POP3 (SSL): 995
+Microsoft RDP: 3389
