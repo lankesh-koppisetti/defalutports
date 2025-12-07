@@ -1,4 +1,6 @@
 Messaging and Transfer Protocols
-RabbitMQ Web UI: 15672
 IBM MQ Listener: 1414
-Tibco RV Daemon: 7474
+IBM Connect:Direct	1364
+RabbitMQ Web UI	15672
+Tibco RV Daemon	7474
+GoToMyPC	8200
