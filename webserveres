@@ -1,0 +1,10 @@
+Web Servers and Application Servers
+HTTP: 80
+HTTPS: 443
+Tomcat Startup: 8080
+Tomcat SSL: 8443
+GlassFish HTTP: 8080
+GlassFish HTTPS: 8181
+WebLogic Admin Console: 7001
+JBoss Admin Console: 8080
+Jenkins: 8080
