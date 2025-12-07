@@ -8,3 +8,36 @@ GlassFish HTTPS: 8181
 WebLogic Admin Console: 7001
 JBoss Admin Console: 8080
 Jenkins: 8080
+
+
+--------------------------------------
+Name	Port Number
+Tomcat Startup	8080
+Tomcat Startup (SSL)	8443
+Tomcat Shutdown	8005
+Tomcat AJP Connector	8009
+GlassFish HTTP	8080
+GlassFish HTTPS	8181
+GlassFish Admin Server	4848
+Jetty	8080
+Jonas Admin Console	9000
+IHS Administration	8008
+JBoss Admin Console	8080
+WildFly Admin Console	9990
+WebLogic Admin Console	7001
+WAS Admin Console (SSL)	9043
+WAS Admin Console	9060
+WAS JVM HTTP	9080 (first one only)
+WAS JVM HTTPS	9443 (first one only)
+Alfresco Explorer/Share	8080
+Apache Derby Network Server	1527
+OHS	7777
+OHS (SSL)	4443
+Jenkins	8080
+Administrative server	4848
+HTTP	8080
+HTTPS	8181
+IIPO	3700
+IIOP_SSL	3820
+IIOP_MUTUALAUTH and mutual authentication	3920
+JMX_ADMIN	8686
